@@ -21,8 +21,6 @@ poetry install
 
 ## Program start
 
-Пример запуска программы:
-
 ```sh
 streamlit run app_streamlit.py
 ```
