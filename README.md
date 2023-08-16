@@ -26,3 +26,5 @@ poetry install
 ```sh
 streamlit run app_streamlit.py
 ```
+
+Убедитесь, что app_streamlit.py файл сохранен в том же каталоге, где вы запускаете команду запуска 
